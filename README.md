@@ -2,6 +2,7 @@
 <p align="center">
 
   <h3 align="center">Xnadi</h3>
+  From Austria
 
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=xnadii&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
@@ -12,7 +13,6 @@
 
 # 📊 Useful Links:
   <p align="center">
-    From Austria
     <br />
   <br />
     <div align="center">
