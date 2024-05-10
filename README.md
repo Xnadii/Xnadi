@@ -3,9 +3,14 @@
 
   <h3 align="center">Xnadi</h3>
 
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=Xnadi&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=xnadii&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=xnadii&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=xnadii&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xnadii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 📊 Useful Links:
   <p align="center">
     From Austria
     <br />
